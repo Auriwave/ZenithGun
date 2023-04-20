@@ -115,7 +115,7 @@ namespace ZenithGun.Items.Weapons.ZenithGun {
 				typeList.Add(ProjectileID.BulletHighVelocity);
 				typeList.Add(ProjectileID.IchorBullet);
 				typeList.Add(ProjectileID.VenomBullet);
-				typeList.Add(ProjectileID.PartyBullet);
+				typeList.Add(ProjectileID.BlackBolt);
 				typeList.Add(ProjectileID.NanoBullet);
 				typeList.Add(ProjectileID.Bullet);
 				typeList.Add(ProjectileID.GoldenBullet);
